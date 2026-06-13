@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.hauskaufberatung-stuttgart.de/sitemap.xml
